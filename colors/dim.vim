@@ -16,7 +16,7 @@ highlight DiffDelete     ctermfg=0    ctermbg=1
 highlight DiffText       ctermfg=0    ctermbg=11   cterm=bold
 
 " Invert selected lines in visual mode
-highlight Visual         ctermfg=NONE ctermbg=NONE cterm=inverse
+highlight Visual         ctermbg=1 cterm=NONE
 
 " Highlight search matches in black, with a yellow background
 highlight Search         ctermfg=0    ctermbg=11
