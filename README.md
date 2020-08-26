@@ -9,6 +9,10 @@
 
 This is a fork from [jeffkreeftmeijer/vim-dim](https://github.com/jeffkreeftmeijer/vim-dim)
 
+The major changes are:
+
+* Visual highlighting using black
+
 ## Example
 
 [vim and htop](./example.png)
