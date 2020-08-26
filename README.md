@@ -1,6 +1,6 @@
 # Dim
 
-**Dim** (/dɪm/; a contraction of **Default IMproved**) is a clone of Vim’s default colorscheme, with some improvements:
+**Dim** (a contraction of **Default IMproved**) is a clone of Vim’s default colorscheme, with some improvements:
 
 * It only uses [ANSI colors], so you can assign colors in your terminal emulator yourself
 * Syntax highlighting is consistent on light and dark backgrounds
@@ -15,4 +15,4 @@ The major changes are:
 
 ## Example
 
-[vim and htop](./example.png)
+![vim and htop](./example.png)
