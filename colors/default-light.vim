@@ -34,3 +34,4 @@ highlight Ignore         ctermfg=15
 highlight Error          ctermfg=15 ctermbg=9
 highlight Todo           ctermfg=0 ctermbg=11
 highlight String         ctermfg=2
+highlight Include        ctermfg=5
