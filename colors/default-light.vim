@@ -25,7 +25,7 @@ highlight CursorLine     cterm=underline
 highlight MatchParen     ctermbg=14
 highlight Constant       ctermfg=11
 highlight Special        ctermfg=5
-highlight Identifier     cterm=NONE ctermfg=4
+highlight Identifier     cterm=NONE ctermfg=1
 highlight Statement      ctermfg=5
 highlight PreProc        ctermfg=3
 highlight Type           ctermfg=2
@@ -36,3 +36,4 @@ highlight Todo           ctermfg=0 ctermbg=11
 highlight String         ctermfg=2
 highlight Include        ctermfg=5
 highlight Builtin        ctermfg=6
+highlight Function       ctermfg=4
