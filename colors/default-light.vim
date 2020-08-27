@@ -23,11 +23,11 @@ highlight TabLineFill    cterm=reverse
 highlight CursorColumn   ctermbg=7
 highlight CursorLine     cterm=underline
 highlight MatchParen     ctermbg=14
-highlight Constant       ctermfg=1
+highlight Constant       ctermfg=11
 highlight Special        ctermfg=5
-highlight Identifier     cterm=NONE ctermfg=6
-highlight Statement      ctermfg=3
-highlight PreProc        ctermfg=5
+highlight Identifier     cterm=NONE ctermfg=4
+highlight Statement      ctermfg=5
+highlight PreProc        ctermfg=3
 highlight Type           ctermfg=2
 highlight Underlined     cterm=underline ctermfg=5
 highlight Ignore         ctermfg=15
