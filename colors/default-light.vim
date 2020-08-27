@@ -24,7 +24,7 @@ highlight CursorColumn   ctermbg=7
 highlight CursorLine     cterm=underline
 highlight MatchParen     ctermbg=14
 highlight Constant       ctermfg=11
-highlight Special        ctermfg=5
+highlight Special        ctermfg=4
 highlight Identifier     cterm=NONE ctermfg=1
 highlight Statement      ctermfg=5
 highlight PreProc        ctermfg=3
