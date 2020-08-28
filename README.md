@@ -14,5 +14,5 @@ The major changes are:
 * Visual highlighting using black
 
 ## Example
-
-![vim and htop](./example.png)
+neovim on left, htop and neofetch on the right (inside tmux):
+![vim, htop, neofetch](./example.png)
