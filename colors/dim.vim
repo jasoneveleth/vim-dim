@@ -21,6 +21,10 @@ highlight Visual         ctermbg=0 cterm=NONE
 " Highlight search matches in black, with a yellow background
 highlight Search         ctermfg=0    ctermbg=11
 
+" Highlight the 80th column
+highlight BackgroundWarning ctermbg=9 guibg=#be5046
+match BackgroundWarning /\%81v/
+
 " Dim line numbers, comments, color columns, the status line, splits and sign
 " columns.
 if &background == "light"
