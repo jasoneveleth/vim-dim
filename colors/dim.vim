@@ -25,6 +25,10 @@ highlight Search         ctermfg=0    ctermbg=11
 highlight BackgroundWarning ctermbg=9 guibg=#be5046
 match BackgroundWarning /\%81v/
 
+highlight clear SpellBad
+highlight SpellBad ctermfg=1 cterm=underline
+highlight clear Conceal
+
 " Dim line numbers, comments, color columns, the status line, splits and sign
 " columns.
 if &background == "light"
