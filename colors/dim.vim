@@ -55,6 +55,16 @@ highlight DiffChange     ctermfg=0    ctermbg=3
 highlight DiffDelete     ctermfg=0    ctermbg=1
 highlight DiffText       ctermfg=0    ctermbg=11   cterm=bold
 
+" For status Line
+hi User1 ctermbg=2 ctermfg=0 cterm=bold
+hi User2 ctermbg=4 ctermfg=0 cterm=bold
+hi User3 ctermbg=3 ctermfg=0 cterm=bold
+hi User4 ctermbg=11 ctermfg=0 cterm=bold
+hi User5 ctermbg=5 ctermfg=0 cterm=bold
+hi User6 ctermbg=8 ctermfg=15
+hi User7 ctermbg=0 ctermfg=15
+hi User8 ctermbg=7 ctermfg=0
+
 " Highlights in visual mode have a dark background
 highlight Visual         ctermbg=0 cterm=NONE
 
