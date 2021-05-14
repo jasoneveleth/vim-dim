@@ -80,6 +80,16 @@ highlight clear SpellBad
 highlight SpellBad ctermfg=1 cterm=underline
 highlight clear Conceal
 
+" Lsp
+highlight LspDiagnosticsDefaultInformation ctermfg=4
+highlight LspDiagnosticsDefaultWarning ctermfg=11
+highlight LspDiagnosticsDefaultError ctermfg=1
+highlight LspDiagnosticsDefaultHint ctermfg=8
+highlight LspDiagnosticsUnderlineHint cterm=underline ctermfg=8
+highlight LspDiagnosticsUnderlineInformation cterm=underline ctermfg=4
+highlight LspDiagnosticsUnderlineWarning cterm=underline ctermfg=11
+highlight LspDiagnosticsUnderlineError cterm=underline ctermfg=1
+
 " Dim line numbers, comments, color columns, the status line, splits and sign
 " columns.
 if &background == "light"
