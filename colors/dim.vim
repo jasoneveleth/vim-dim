@@ -55,6 +55,10 @@ highlight DiffChange     ctermfg=0    ctermbg=3
 highlight DiffDelete     ctermfg=0    ctermbg=1
 highlight DiffText       ctermfg=0    ctermbg=11   cterm=bold
 
+highlight diffAdded      ctermfg=0    ctermbg=2
+highlight diffChanged    ctermfg=0    ctermbg=3
+highlight diffRemoved    ctermfg=0    ctermbg=1
+
 " For status Line
 hi User1 ctermbg=2 ctermfg=0 cterm=bold
 hi User2 ctermbg=4 ctermfg=0 cterm=bold
