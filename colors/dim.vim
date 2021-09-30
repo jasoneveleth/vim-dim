@@ -35,7 +35,7 @@ highlight Special       ctermfg=4
 highlight Identifier    ctermfg=1                      cterm=NONE
 highlight Statement     ctermfg=5
 highlight PreProc       ctermfg=3
-highlight Type          ctermfg=2
+highlight Type          ctermfg=6
 highlight Underlined    ctermfg=5                      cterm=underline
 highlight Ignore        ctermfg=15
 highlight Error         ctermfg=15     ctermbg=9
